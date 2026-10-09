@@ -1,0 +1,19 @@
+# 运行期 / 第三方数据（由 scripts/fetch-data.sh 拉取，不要提交）
+/data/
+/brand/
+/a5a/
+/pyjacc/
+/baidu/
+
+# 生成物
+/out/
+*.obf
+*.osm.bz2
+OsmAndMapCreator-main.zip
+utilities.sh
+utilities.bat
+
+# 杂项
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,5 @@
+name	upstream	dest	content	license	redistributable	note
+brand	Wadesha/china-brand-poi-maps	brand/	56 品牌 / 66 城 / 205,228 条（2026-05 采集，GCJ-02）	无	no	品牌门店；build.py 读 brand/*.json
+a5a	tuansuwu/china-5a-scenic-areas	a5a/	全国 373 个 5A 级景区（WGS-84）	CC BY-SA 4.0	yes	署名 + 同许可；samples/ 里放了原始 CSV 作例外
+pyjacc	Pyjacc/data-poi	pyjacc/	全国省会城市 POI（高德，2022-09），1,098 个 xlsx	无	no	scan_pyjacc.py 会统计省/市/区数量
+baidu	wangunji/POI-data-of-China	baidu/	百度 POI（2020），按城市 × 6 大类	无	no	geoio.py 可读其 dbf/shapefile

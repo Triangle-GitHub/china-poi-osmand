@@ -1,0 +1,2987 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="poi-work">
+<node id="1" action="modify" visible="true" lat="29.9055560" lon="117.9911110">
+<tag k="name" v="皖南古村落—西递·宏村"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 黄山市"/>
+<tag k="addr:city" v="黄山市"/>
+</node>
+<node id="2" action="modify" visible="true" lat="32.5614950" lon="116.3071170">
+<tag k="name" v="八里河景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 阜阳市"/>
+<tag k="addr:city" v="阜阳市"/>
+</node>
+<node id="3" action="modify" visible="true" lat="31.7000000" lon="118.4400000">
+<tag k="name" v="长江采石矶文化生态旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 马鞍山市"/>
+<tag k="addr:city" v="马鞍山市"/>
+</node>
+<node id="4" action="modify" visible="true" lat="31.3795440" lon="118.3726090">
+<tag k="name" v="方特旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 芜湖市"/>
+<tag k="addr:city" v="芜湖市"/>
+</node>
+<node id="5" action="modify" visible="true" lat="29.8655960" lon="118.4303230">
+<tag k="name" v="古徽州文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 黄山市"/>
+<tag k="addr:city" v="黄山市"/>
+</node>
+<node id="6" action="modify" visible="true" lat="30.1666670" lon="118.1833330">
+<tag k="name" v="黄山风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 黄山市"/>
+<tag k="addr:city" v="黄山市"/>
+</node>
+<node id="7" action="modify" visible="true" lat="30.3894800" lon="119.0590580">
+<tag k="name" v="绩溪龙川景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 宣城市"/>
+<tag k="addr:city" v="宣城市"/>
+</node>
+<node id="8" action="modify" visible="true" lat="30.4822220" lon="117.8044440">
+<tag k="name" v="九华山风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 池州市"/>
+<tag k="addr:city" v="池州市"/>
+</node>
+<node id="9" action="modify" visible="true" lat="32.2666670" lon="118.2666670">
+<tag k="name" v="琅琊山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 滁州市"/>
+<tag k="addr:city" v="滁州市"/>
+</node>
+<node id="10" action="modify" visible="true" lat="30.7416670" lon="116.4502780">
+<tag k="name" v="天柱山风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 安庆市"/>
+<tag k="addr:city" v="安庆市"/>
+</node>
+<node id="11" action="modify" visible="true" lat="31.5182800" lon="117.2387000">
+<tag k="name" v="三河古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 合肥市"/>
+<tag k="addr:city" v="合肥市"/>
+</node>
+<node id="12" action="modify" visible="true" lat="31.1252780" lon="115.7730560">
+<tag k="name" v="天堂寨旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 六安市"/>
+<tag k="addr:city" v="六安市"/>
+</node>
+<node id="13" action="modify" visible="true" lat="31.3038890" lon="114.7602780">
+<tag k="name" v="万佛湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="安徽省 六安市"/>
+<tag k="addr:city" v="六安市"/>
+</node>
+<node id="14" action="modify" visible="true" lat="40.3541670" lon="116.0069440">
+<tag k="name" v="八达岭长城（八达岭-慕田峪长城）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="15" action="modify" visible="true" lat="40.4345150" lon="116.5605750">
+<tag k="name" v="慕田峪长城旅游景区（八达岭-慕田峪长城）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="16" action="modify" visible="true" lat="39.8695990" lon="116.7406890">
+<tag k="name" v="北京（通州）大运河文化旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="17" action="modify" visible="true" lat="39.9155560" lon="116.3908330">
+<tag k="name" v="故宫博物院"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="18" action="modify" visible="true" lat="40.3033330" lon="116.2319440">
+<tag k="name" v="明十三陵景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="19" action="modify" visible="true" lat="40.0072220" lon="116.2925000">
+<tag k="name" v="圆明园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="20" action="modify" visible="true" lat="40.0000000" lon="116.3868300">
+<tag k="name" v="奥林匹克公园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="21" action="modify" visible="true" lat="39.9366390" lon="116.3798610">
+<tag k="name" v="恭王府景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="22" action="modify" visible="true" lat="39.9975000" lon="116.2689000">
+<tag k="name" v="颐和园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="23" action="modify" visible="true" lat="39.8822220" lon="116.4063890">
+<tag k="name" v="天坛公园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="北京市 北京市"/>
+<tag k="addr:city" v="北京市"/>
+</node>
+<node id="24" action="modify" visible="true" lat="29.1555620" lon="108.1140370">
+<tag k="name" v="阿依河景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="25" action="modify" visible="true" lat="31.0434900" lon="109.5705410">
+<tag k="name" v="白帝城·瞿塘峡景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="26" action="modify" visible="true" lat="31.2324480" lon="109.8727770">
+<tag k="name" v="重庆小三峡-小小三峡"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="27" action="modify" visible="true" lat="29.7000000" lon="105.7000000">
+<tag k="name" v="重庆大足石刻景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="28" action="modify" visible="true" lat="28.8884420" lon="106.9993210">
+<tag k="name" v="黑山谷景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="29" action="modify" visible="true" lat="28.6535000" lon="106.4050000">
+<tag k="name" v="江津四面山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="30" action="modify" visible="true" lat="29.0666670" lon="107.3000000">
+<tag k="name" v="金佛山-神龙峡景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="31" action="modify" visible="true" lat="27.9025000" lon="108.7427780">
+<tag k="name" v="武陵山大裂谷景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="32" action="modify" visible="true" lat="29.3000000" lon="108.0000000">
+<tag k="name" v="武隆喀斯特旅游区（天生三桥、仙女山、芙蓉洞)"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="33" action="modify" visible="true" lat="28.8435530" lon="108.7577040">
+<tag k="name" v="酉阳桃花源景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="34" action="modify" visible="true" lat="30.6734980" lon="109.0115110">
+<tag k="name" v="云阳龙缸景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="35" action="modify" visible="true" lat="29.3061200" lon="108.7697500">
+<tag k="name" v="濯水景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="重庆市 重庆市"/>
+<tag k="addr:city" v="重庆市"/>
+</node>
+<node id="36" action="modify" visible="true" lat="27.0965580" lon="119.0679990">
+<tag k="name" v="白水洋·鸳鸯溪旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 宁德市"/>
+<tag k="addr:city" v="宁德市"/>
+</node>
+<node id="37" action="modify" visible="true" lat="24.6587000" lon="116.9750000">
+<tag k="name" v="土楼南靖（土楼（永定·南靖）旅游景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 漳州市"/>
+<tag k="addr:city" v="漳州市"/>
+</node>
+<node id="38" action="modify" visible="true" lat="24.6587000" lon="116.9750000">
+<tag k="name" v="土楼永定（土楼（永定·南靖）旅游景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 龙岩市"/>
+<tag k="addr:city" v="龙岩市"/>
+</node>
+<node id="39" action="modify" visible="true" lat="25.7138890" lon="116.7855560">
+<tag k="name" v="冠豸山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 龙岩市"/>
+<tag k="addr:city" v="龙岩市"/>
+</node>
+<node id="40" action="modify" visible="true" lat="24.4472220" lon="118.0611110">
+<tag k="name" v="鼓浪屿风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 厦门市"/>
+<tag k="addr:city" v="厦门市"/>
+</node>
+<node id="41" action="modify" visible="true" lat="25.2250000" lon="116.8180000">
+<tag k="name" v="古田旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 龙岩市"/>
+<tag k="addr:city" v="龙岩市"/>
+</node>
+<node id="42" action="modify" visible="true" lat="25.0936690" lon="119.1430190">
+<tag k="name" v="湄洲岛妈祖文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 莆田市"/>
+<tag k="addr:city" v="莆田市"/>
+</node>
+<node id="43" action="modify" visible="true" lat="24.9547220" lon="118.6084670">
+<tag k="name" v="清源山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 泉州市"/>
+<tag k="addr:city" v="泉州市"/>
+</node>
+<node id="44" action="modify" visible="true" lat="27.1000000" lon="120.2000000">
+<tag k="name" v="福鼎太姥山旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 宁德市"/>
+<tag k="addr:city" v="宁德市"/>
+</node>
+<node id="45" action="modify" visible="true" lat="26.0856600" lon="119.2920400">
+<tag k="name" v="三坊七巷景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 福州市"/>
+<tag k="addr:city" v="福州市"/>
+</node>
+<node id="46" action="modify" visible="true" lat="26.8680560" lon="117.0722220">
+<tag k="name" v="泰宁风景旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 三明市"/>
+<tag k="addr:city" v="三明市"/>
+</node>
+<node id="47" action="modify" visible="true" lat="27.7166670" lon="117.6833330">
+<tag k="name" v="武夷山风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 南平市"/>
+<tag k="addr:city" v="南平市"/>
+</node>
+<node id="48" action="modify" visible="true" lat="24.4550000" lon="118.0916670">
+<tag k="name" v="厦门园林植物园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="福建省 厦门市"/>
+<tag k="addr:city" v="厦门市"/>
+</node>
+<node id="49" action="modify" visible="true" lat="35.8055100" lon="103.0443780">
+<tag k="name" v="炳灵寺世界文化遗产旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 临夏回族自治州"/>
+<tag k="addr:city" v="临夏回族自治州"/>
+</node>
+<node id="50" action="modify" visible="true" lat="33.9910450" lon="104.3852120">
+<tag k="name" v="官鹅沟景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 陇南市"/>
+<tag k="addr:city" v="陇南市"/>
+</node>
+<node id="51" action="modify" visible="true" lat="39.8013890" lon="98.2158330">
+<tag k="name" v="嘉峪关文物景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 嘉峪关市"/>
+<tag k="addr:city" v="嘉峪关市"/>
+</node>
+<node id="52" action="modify" visible="true" lat="35.5767000" lon="106.5192000">
+<tag k="name" v="崆峒山风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 平凉市"/>
+<tag k="addr:city" v="平凉市"/>
+</node>
+<node id="53" action="modify" visible="true" lat="34.3050000" lon="106.0433000">
+<tag k="name" v="麦积山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 天水市"/>
+<tag k="addr:city" v="天水市"/>
+</node>
+<node id="54" action="modify" visible="true" lat="40.0845530" lon="94.6751110">
+<tag k="name" v="鸣沙山月牙泉景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 酒泉市"/>
+<tag k="addr:city" v="酒泉市"/>
+</node>
+<node id="55" action="modify" visible="true" lat="34.9643980" lon="103.6604910">
+<tag k="name" v="冶力关旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 甘南藏族自治州"/>
+<tag k="addr:city" v="甘南藏族自治州"/>
+</node>
+<node id="56" action="modify" visible="true" lat="38.9155500" lon="100.1332000">
+<tag k="name" v="七彩丹霞景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="甘肃省 张掖市"/>
+<tag k="addr:city" v="张掖市"/>
+</node>
+<node id="57" action="modify" visible="true" lat="23.1800910" lon="113.2981700">
+<tag k="name" v="白云山风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 广州市"/>
+<tag k="addr:city" v="广州市"/>
+</node>
+<node id="58" action="modify" visible="true" lat="23.0030690" lon="113.3212180">
+<tag k="name" v="长隆旅游度假区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 广州市"/>
+<tag k="addr:city" v="广州市"/>
+</node>
+<node id="59" action="modify" visible="true" lat="22.8814760" lon="113.2848210">
+<tag k="name" v="长鹿旅游休博园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 佛山市"/>
+<tag k="addr:city" v="佛山市"/>
+</node>
+<node id="60" action="modify" visible="true" lat="25.0319440" lon="113.7461110">
+<tag k="name" v="丹霞山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 韶关市"/>
+<tag k="addr:city" v="韶关市"/>
+</node>
+<node id="61" action="modify" visible="true" lat="21.6159000" lon="111.9129000">
+<tag k="name" v="海陵岛大角湾海上丝路旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 阳江市"/>
+<tag k="addr:city" v="阳江市"/>
+</node>
+<node id="62" action="modify" visible="true" lat="23.0944440" lon="114.3972220">
+<tag k="name" v="惠州西湖旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 惠州市"/>
+<tag k="addr:city" v="惠州市"/>
+</node>
+<node id="63" action="modify" visible="true" lat="22.2855560" lon="112.5658330">
+<tag k="name" v="开平碉楼文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 江门市"/>
+<tag k="addr:city" v="江门市"/>
+</node>
+<node id="64" action="modify" visible="true" lat="25.0038860" lon="112.3189040">
+<tag k="name" v="连州地下河旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 清远市"/>
+<tag k="addr:city" v="清远市"/>
+</node>
+<node id="65" action="modify" visible="true" lat="22.7401260" lon="114.0711780">
+<tag k="name" v="观澜湖休闲旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 深圳市"/>
+<tag k="addr:city" v="深圳市"/>
+</node>
+<node id="66" action="modify" visible="true" lat="23.2836110" lon="114.0163890">
+<tag k="name" v="罗浮山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 惠州市"/>
+<tag k="addr:city" v="惠州市"/>
+</node>
+<node id="67" action="modify" visible="true" lat="22.9272220" lon="112.9727780">
+<tag k="name" v="西樵山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 佛山市"/>
+<tag k="addr:city" v="佛山市"/>
+</node>
+<node id="68" action="modify" visible="true" lat="22.5368400" lon="113.9786800">
+<tag k="name" v="深圳华侨城旅游度假区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 深圳市"/>
+<tag k="addr:city" v="深圳市"/>
+</node>
+<node id="69" action="modify" visible="true" lat="22.4452110" lon="113.5229310">
+<tag k="name" v="孙中山故里旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 中山市"/>
+<tag k="addr:city" v="中山市"/>
+</node>
+<node id="70" action="modify" visible="true" lat="23.7263890" lon="114.6475000">
+<tag k="name" v="万绿湖风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 河源市"/>
+<tag k="addr:city" v="河源市"/>
+</node>
+<node id="71" action="modify" visible="true" lat="23.0749200" lon="112.4681600">
+<tag k="name" v="星湖旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 肇庆市"/>
+<tag k="addr:city" v="肇庆市"/>
+</node>
+<node id="72" action="modify" visible="true" lat="24.3839190" lon="116.3623120">
+<tag k="name" v="雁南飞茶田景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广东省 梅州市"/>
+<tag k="addr:city" v="梅州市"/>
+</node>
+<node id="73" action="modify" visible="true" lat="23.9053750" lon="106.6371120">
+<tag k="name" v="百色起义纪念园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 百色市"/>
+<tag k="addr:city" v="百色市"/>
+</node>
+<node id="74" action="modify" visible="true" lat="25.9051410" lon="109.6448140">
+<tag k="name" v="程阳八寨景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 柳州市"/>
+<tag k="addr:city" v="柳州市"/>
+</node>
+<node id="75" action="modify" visible="true" lat="22.8558330" lon="106.7227780">
+<tag k="name" v="德天跨国瀑布景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 崇左市"/>
+<tag k="addr:city" v="崇左市"/>
+</node>
+<node id="76" action="modify" visible="true" lat="25.2697220" lon="110.2913890">
+<tag k="name" v="象山（两江四湖·象山景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 桂林市"/>
+<tag k="addr:city" v="桂林市"/>
+</node>
+<node id="77" action="modify" visible="true" lat="24.2509400" lon="111.1962300">
+<tag k="name" v="黄姚古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 贺州市"/>
+<tag k="addr:city" v="贺州市"/>
+</node>
+<node id="78" action="modify" visible="true" lat="22.2062760" lon="107.0409350">
+<tag k="name" v="花山岩画景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 崇左市"/>
+<tag k="addr:city" v="崇左市"/>
+</node>
+<node id="79" action="modify" visible="true" lat="25.2861110" lon="110.2950000">
+<tag k="name" v="独秀峰－王城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 桂林市"/>
+<tag k="addr:city" v="桂林市"/>
+</node>
+<node id="80" action="modify" visible="true" lat="25.5609720" lon="110.4646110">
+<tag k="name" v="漓江景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 桂林市"/>
+<tag k="addr:city" v="桂林市"/>
+</node>
+<node id="81" action="modify" visible="true" lat="22.7833330" lon="108.3833330">
+<tag k="name" v="青秀山旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 南宁市"/>
+<tag k="addr:city" v="南宁市"/>
+</node>
+<node id="82" action="modify" visible="true" lat="25.2697220" lon="110.2913890">
+<tag k="name" v="两江四湖（两江四湖·象山景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 桂林市"/>
+<tag k="addr:city" v="桂林市"/>
+</node>
+<node id="83" action="modify" visible="true" lat="21.0444440" lon="109.1111110">
+<tag k="name" v="涠洲岛南湾鳄鱼山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="广西壮族自治区 北海市"/>
+<tag k="addr:city" v="北海市"/>
+</node>
+<node id="84" action="modify" visible="true" lat="27.2368500" lon="105.8570700">
+<tag k="name" v="百里杜鹃景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 毕节市"/>
+<tag k="addr:city" v="毕节市"/>
+</node>
+<node id="85" action="modify" visible="true" lat="28.4000000" lon="105.8000000">
+<tag k="name" v="赤水丹霞旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 遵义市"/>
+<tag k="addr:city" v="遵义市"/>
+</node>
+<node id="86" action="modify" visible="true" lat="26.1104530" lon="105.8803080">
+<tag k="name" v="龙宫景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 安顺市"/>
+<tag k="addr:city" v="安顺市"/>
+</node>
+<node id="87" action="modify" visible="true" lat="27.8833330" lon="108.6666670">
+<tag k="name" v="梵净山旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 铜仁市"/>
+<tag k="addr:city" v="铜仁市"/>
+</node>
+<node id="88" action="modify" visible="true" lat="25.9920000" lon="105.6660000">
+<tag k="name" v="黄果树大瀑布景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 安顺市"/>
+<tag k="addr:city" v="安顺市"/>
+</node>
+<node id="89" action="modify" visible="true" lat="25.2632680" lon="107.7114260">
+<tag k="name" v="荔波樟江景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 黔南布依族苗族自治州"/>
+<tag k="addr:city" v="黔南布依族苗族自治州"/>
+</node>
+<node id="90" action="modify" visible="true" lat="26.3341900" lon="106.6844300">
+<tag k="name" v="青岩古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 贵阳市"/>
+<tag k="addr:city" v="贵阳市"/>
+</node>
+<node id="91" action="modify" visible="true" lat="25.0156200" lon="104.9079300">
+<tag k="name" v="万峰林景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 黔西南布依族苗族自治州"/>
+<tag k="addr:city" v="黔西南布依族苗族自治州"/>
+</node>
+<node id="92" action="modify" visible="true" lat="27.0516600" lon="108.4175700">
+<tag k="name" v="镇远古城旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 黔东南苗族侗族自治州"/>
+<tag k="addr:city" v="黔东南苗族侗族自治州"/>
+</node>
+<node id="93" action="modify" visible="true" lat="26.7583000" lon="105.9310000">
+<tag k="name" v="织金洞景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="贵州省 毕节市"/>
+<tag k="addr:city" v="毕节市"/>
+</node>
+<node id="94" action="modify" visible="true" lat="18.4011970" lon="109.6594910">
+<tag k="name" v="槟榔谷黎苗文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="海南省 海南省"/>
+<tag k="addr:city" v="海南省"/>
+</node>
+<node id="95" action="modify" visible="true" lat="18.5805560" lon="110.1997220">
+<tag k="name" v="分界洲岛旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="海南省 海南省"/>
+<tag k="addr:city" v="海南省"/>
+</node>
+<node id="96" action="modify" visible="true" lat="18.3050400" lon="109.1516200">
+<tag k="name" v="南山大小洞天旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="海南省 三亚市"/>
+<tag k="addr:city" v="三亚市"/>
+</node>
+<node id="97" action="modify" visible="true" lat="18.3000910" lon="109.2066330">
+<tag k="name" v="南山文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="海南省 三亚市"/>
+<tag k="addr:city" v="三亚市"/>
+</node>
+<node id="98" action="modify" visible="true" lat="18.2929800" lon="109.3454500">
+<tag k="name" v="天涯海角游览区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="海南省 三亚市"/>
+<tag k="addr:city" v="三亚市"/>
+</node>
+<node id="99" action="modify" visible="true" lat="18.3113520" lon="109.7618490">
+<tag k="name" v="蜈支洲岛旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="海南省 三亚市"/>
+<tag k="addr:city" v="三亚市"/>
+</node>
+<node id="100" action="modify" visible="true" lat="18.4619140" lon="109.6424220">
+<tag k="name" v="呀诺达雨林文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="海南省 海南省"/>
+<tag k="addr:city" v="海南省"/>
+</node>
+<node id="101" action="modify" visible="true" lat="39.2130000" lon="114.7060000">
+<tag k="name" v="白石山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 保定市"/>
+<tag k="addr:city" v="保定市"/>
+</node>
+<node id="102" action="modify" visible="true" lat="38.8500000" lon="116.0333330">
+<tag k="name" v="安新白洋淀景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 保定市"/>
+<tag k="addr:city" v="保定市"/>
+</node>
+<node id="103" action="modify" visible="true" lat="40.9936110" lon="117.9294440">
+<tag k="name" v="承德避暑山庄及周围寺庙景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 承德市"/>
+<tag k="addr:city" v="承德市"/>
+</node>
+<node id="104" action="modify" visible="true" lat="40.1857470" lon="117.6389610">
+<tag k="name" v="清东陵景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 唐山市"/>
+<tag k="addr:city" v="唐山市"/>
+</node>
+<node id="105" action="modify" visible="true" lat="36.7013200" lon="114.7303400">
+<tag k="name" v="广府古城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 邯郸市"/>
+<tag k="addr:city" v="邯郸市"/>
+</node>
+<node id="106" action="modify" visible="true" lat="37.6138890" lon="115.5916670">
+<tag k="name" v="衡水湖旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 衡水市"/>
+<tag k="addr:city" v="衡水市"/>
+</node>
+<node id="107" action="modify" visible="true" lat="40.6766440" lon="117.2328640">
+<tag k="name" v="金山岭长城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 承德市"/>
+<tag k="addr:city" v="承德市"/>
+</node>
+<node id="108" action="modify" visible="true" lat="36.6433330" lon="113.6172220">
+<tag k="name" v="娲皇宫景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 邯郸市"/>
+<tag k="addr:city" v="邯郸市"/>
+</node>
+<node id="109" action="modify" visible="true" lat="40.0093640" lon="119.7541440">
+<tag k="name" v="山海关景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 秦皇岛市"/>
+<tag k="addr:city" v="秦皇岛市"/>
+</node>
+<node id="110" action="modify" visible="true" lat="39.5945000" lon="118.1547000">
+<tag k="name" v="南湖·开滦旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 唐山市"/>
+<tag k="addr:city" v="唐山市"/>
+</node>
+<node id="111" action="modify" visible="true" lat="39.3638900" lon="115.3467000">
+<tag k="name" v="清西陵景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 保定市"/>
+<tag k="addr:city" v="保定市"/>
+</node>
+<node id="112" action="modify" visible="true" lat="38.3176200" lon="114.0126900">
+<tag k="name" v="西柏坡景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 石家庄市"/>
+<tag k="addr:city" v="石家庄市"/>
+</node>
+<node id="113" action="modify" visible="true" lat="39.1000000" lon="115.0333330">
+<tag k="name" v="野三坡景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河北省 保定市"/>
+<tag k="addr:city" v="保定市"/>
+</node>
+<node id="114" action="modify" visible="true" lat="53.4793360" lon="122.3602440">
+<tag k="name" v="北极村旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="黑龙江省 大兴安岭地区"/>
+<tag k="addr:city" v="大兴安岭地区"/>
+</node>
+<node id="115" action="modify" visible="true" lat="45.9829500" lon="133.6613600">
+<tag k="name" v="虎头旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="黑龙江省 鸡西市"/>
+<tag k="addr:city" v="鸡西市"/>
+</node>
+<node id="116" action="modify" visible="true" lat="43.8800000" lon="128.9400000">
+<tag k="name" v="镜泊湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="黑龙江省 牡丹江市"/>
+<tag k="addr:city" v="牡丹江市"/>
+</node>
+<node id="117" action="modify" visible="true" lat="45.7910000" lon="126.5900000">
+<tag k="name" v="太阳岛景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="黑龙江省 哈尔滨市"/>
+<tag k="addr:city" v="哈尔滨市"/>
+</node>
+<node id="118" action="modify" visible="true" lat="48.4498700" lon="129.4455200">
+<tag k="name" v="汤旺河林海奇石景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="黑龙江省 伊春市"/>
+<tag k="addr:city" v="伊春市"/>
+</node>
+<node id="119" action="modify" visible="true" lat="48.7220000" lon="126.1500000">
+<tag k="name" v="五大连池景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="黑龙江省 黑河市"/>
+<tag k="addr:city" v="黑河市"/>
+</node>
+<node id="120" action="modify" visible="true" lat="47.2000000" lon="124.2500000">
+<tag k="name" v="扎龙生态旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="黑龙江省 齐齐哈尔市"/>
+<tag k="addr:city" v="齐齐哈尔市"/>
+</node>
+<node id="121" action="modify" visible="true" lat="35.5930760" lon="113.5417590">
+<tag k="name" v="八里沟景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 新乡市"/>
+<tag k="addr:city" v="新乡市"/>
+</node>
+<node id="122" action="modify" visible="true" lat="33.6813970" lon="111.8473420">
+<tag k="name" v="白云山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 洛阳市"/>
+<tag k="addr:city" v="洛阳市"/>
+</node>
+<node id="123" action="modify" visible="true" lat="35.4472370" lon="113.4765080">
+<tag k="name" v="宝泉旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 新乡市"/>
+<tag k="addr:city" v="新乡市"/>
+</node>
+<node id="124" action="modify" visible="true" lat="33.6626170" lon="111.7866860">
+<tag k="name" v="伏牛山老界岭·恐龙遗址园旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 南阳市"/>
+<tag k="addr:city" v="南阳市"/>
+</node>
+<node id="125" action="modify" visible="true" lat="31.7994440" lon="114.0833330">
+<tag k="name" v="鸡公山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 信阳市"/>
+<tag k="addr:city" v="信阳市"/>
+</node>
+<node id="126" action="modify" visible="true" lat="34.5544440" lon="112.4711110">
+<tag k="name" v="龙门石窟景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 洛阳市"/>
+<tag k="addr:city" v="洛阳市"/>
+</node>
+<node id="127" action="modify" visible="true" lat="34.9690000" lon="112.0040000">
+<tag k="name" v="龙潭大峡谷景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 洛阳市"/>
+<tag k="addr:city" v="洛阳市"/>
+</node>
+<node id="128" action="modify" visible="true" lat="33.1341670" lon="113.7283330">
+<tag k="name" v="嵖岈山旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 驻马店市"/>
+<tag k="addr:city" v="驻马店市"/>
+</node>
+<node id="129" action="modify" visible="true" lat="33.7205000" lon="111.6437000">
+<tag k="name" v="老君山·鸡冠洞旅游区景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 洛阳市"/>
+<tag k="addr:city" v="洛阳市"/>
+</node>
+<node id="130" action="modify" visible="true" lat="34.1925000" lon="116.4967000">
+<tag k="name" v="芒砀山旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 商丘市"/>
+<tag k="addr:city" v="商丘市"/>
+</node>
+<node id="131" action="modify" visible="true" lat="34.4847220" lon="112.9602780">
+<tag k="name" v="嵩山少林景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 郑州市"/>
+<tag k="addr:city" v="郑州市"/>
+</node>
+<node id="132" action="modify" visible="true" lat="33.7136110" lon="112.2280560">
+<tag k="name" v="尧山—中原大佛景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 平顶山市"/>
+<tag k="addr:city" v="平顶山市"/>
+</node>
+<node id="133" action="modify" visible="true" lat="34.8098600" lon="114.3342000">
+<tag k="name" v="清明上河园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 开封市"/>
+<tag k="addr:city" v="开封市"/>
+</node>
+<node id="134" action="modify" visible="true" lat="36.3524100" lon="113.7595300">
+<tag k="name" v="红旗渠、太行大峡谷旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 安阳市"/>
+<tag k="addr:city" v="安阳市"/>
+</node>
+<node id="135" action="modify" visible="true" lat="33.7537390" lon="114.8822890">
+<tag k="name" v="太昊伏羲陵文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 周口市"/>
+<tag k="addr:city" v="周口市"/>
+</node>
+<node id="136" action="modify" visible="true" lat="36.1222220" lon="114.3250000">
+<tag k="name" v="殷墟景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 安阳市"/>
+<tag k="addr:city" v="安阳市"/>
+</node>
+<node id="137" action="modify" visible="true" lat="35.4326280" lon="113.3563310">
+<tag k="name" v="青天河景区（云台山—神农山—博爱青天河风景名胜区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 焦作市"/>
+<tag k="addr:city" v="焦作市"/>
+</node>
+<node id="138" action="modify" visible="true" lat="35.4326280" lon="113.3563310">
+<tag k="name" v="神农山（云台山—神农山—博爱青天河风景名胜区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 焦作市"/>
+<tag k="addr:city" v="焦作市"/>
+</node>
+<node id="139" action="modify" visible="true" lat="35.4326280" lon="113.3563310">
+<tag k="name" v="云台山风景名胜区（云台山—神农山—博爱青天河风景名胜区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="河南省 焦作市"/>
+<tag k="addr:city" v="焦作市"/>
+</node>
+<node id="140" action="modify" visible="true" lat="30.4629990" lon="111.1327410">
+<tag k="name" v="长阳清江画廊风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 宜昌市"/>
+<tag k="addr:city" v="宜昌市"/>
+</node>
+<node id="141" action="modify" visible="true" lat="30.5666670" lon="114.3833330">
+<tag k="name" v="东湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 武汉市"/>
+<tag k="addr:city" v="武汉市"/>
+</node>
+<node id="142" action="modify" visible="true" lat="30.4071000" lon="109.1910000">
+<tag k="name" v="恩施大峡谷景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 恩施土家族苗族自治州"/>
+<tag k="addr:city" v="恩施土家族苗族自治州"/>
+</node>
+<node id="143" action="modify" visible="true" lat="31.9940770" lon="112.0270030">
+<tag k="name" v="古隆中景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 襄阳市"/>
+<tag k="addr:city" v="襄阳市"/>
+</node>
+<node id="144" action="modify" visible="true" lat="31.0962980" lon="114.3874380">
+<tag k="name" v="黄陂木兰文化生态旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 武汉市"/>
+<tag k="addr:city" v="武汉市"/>
+</node>
+<node id="145" action="modify" visible="true" lat="31.1071930" lon="115.2255510">
+<tag k="name" v="麻城龟峰山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 黄冈市"/>
+<tag k="addr:city" v="黄冈市"/>
+</node>
+<node id="146" action="modify" visible="true" lat="31.2056750" lon="112.6297600">
+<tag k="name" v="明显陵文化旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 荆门市"/>
+<tag k="addr:city" v="荆门市"/>
+</node>
+<node id="147" action="modify" visible="true" lat="30.9481920" lon="111.3186190">
+<tag k="name" v="三峡大瀑布景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 宜昌市"/>
+<tag k="addr:city" v="宜昌市"/>
+</node>
+<node id="148" action="modify" visible="true" lat="30.7867380" lon="111.1484980">
+<tag k="name" v="三峡人家风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 宜昌市"/>
+<tag k="addr:city" v="宜昌市"/>
+</node>
+<node id="149" action="modify" visible="true" lat="31.0480560" lon="110.3227780">
+<tag k="name" v="神龙溪纤夫文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 恩施土家族苗族自治州"/>
+<tag k="addr:city" v="恩施土家族苗族自治州"/>
+</node>
+<node id="150" action="modify" visible="true" lat="31.5833900" lon="110.4971980">
+<tag k="name" v="神农架生态旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 神农架林区"/>
+<tag k="addr:city" v="神农架林区"/>
+</node>
+<node id="151" action="modify" visible="true" lat="30.3363890" lon="108.9827780">
+<tag k="name" v="腾龙洞景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 恩施土家族苗族自治州"/>
+<tag k="addr:city" v="恩施土家族苗族自治州"/>
+</node>
+<node id="152" action="modify" visible="true" lat="30.8283310" lon="111.0097190">
+<tag k="name" v="屈原故里（三峡大坝-屈原故里旅游区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 宜昌市"/>
+<tag k="addr:city" v="宜昌市"/>
+</node>
+<node id="153" action="modify" visible="true" lat="30.8283310" lon="111.0097190">
+<tag k="name" v="三峡大坝旅游区（三峡大坝-屈原故里旅游区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 宜昌市"/>
+<tag k="addr:city" v="宜昌市"/>
+</node>
+<node id="154" action="modify" visible="true" lat="29.8818880" lon="113.6247530">
+<tag k="name" v="三国赤壁古战场景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 咸宁市"/>
+<tag k="addr:city" v="咸宁市"/>
+</node>
+<node id="155" action="modify" visible="true" lat="32.4008330" lon="111.0038890">
+<tag k="name" v="武当山风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 十堰市"/>
+<tag k="addr:city" v="十堰市"/>
+</node>
+<node id="156" action="modify" visible="true" lat="30.5469440" lon="114.2969440">
+<tag k="name" v="黄鹤楼公园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖北省 武汉市"/>
+<tag k="addr:city" v="武汉市"/>
+</node>
+<node id="157" action="modify" visible="true" lat="28.3353030" lon="109.5920780">
+<tag k="name" v="矮寨（矮寨·十八洞·德夯大峡谷景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 湘西土家族苗族自治州"/>
+<tag k="addr:city" v="湘西土家族苗族自治州"/>
+</node>
+<node id="158" action="modify" visible="true" lat="28.3353030" lon="109.5920780">
+<tag k="name" v="德夯大峡谷（矮寨·十八洞·德夯大峡谷景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 湘西土家族苗族自治州"/>
+<tag k="addr:city" v="湘西土家族苗族自治州"/>
+</node>
+<node id="159" action="modify" visible="true" lat="25.8725000" lon="113.3094440">
+<tag k="name" v="东江湖旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 郴州市"/>
+<tag k="addr:city" v="郴州市"/>
+</node>
+<node id="160" action="modify" visible="true" lat="27.9525000" lon="109.6000000">
+<tag k="name" v="凤凰古城旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 湘西土家族苗族自治州"/>
+<tag k="addr:city" v="湘西土家族苗族自治州"/>
+</node>
+<node id="161" action="modify" visible="true" lat="28.0445000" lon="112.6310000">
+<tag k="name" v="花明楼景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 长沙市"/>
+<tag k="addr:city" v="长沙市"/>
+</node>
+<node id="162" action="modify" visible="true" lat="29.3847310" lon="113.0883390">
+<tag k="name" v="君山岛（岳阳楼—君山岛景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 岳阳市"/>
+<tag k="addr:city" v="岳阳市"/>
+</node>
+<node id="163" action="modify" visible="true" lat="27.2547970" lon="112.6557440">
+<tag k="name" v="南岳衡山旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 衡阳市"/>
+<tag k="addr:city" v="衡阳市"/>
+</node>
+<node id="164" action="modify" visible="true" lat="26.3911110" lon="110.7519440">
+<tag k="name" v="崀山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 邵阳市"/>
+<tag k="addr:city" v="邵阳市"/>
+</node>
+<node id="165" action="modify" visible="true" lat="27.9026830" lon="112.5290100">
+<tag k="name" v="韶山旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 湘潭市"/>
+<tag k="addr:city" v="湘潭市"/>
+</node>
+<node id="166" action="modify" visible="true" lat="28.3353030" lon="109.5920780">
+<tag k="name" v="十八洞（矮寨·十八洞·德夯大峡谷景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 湘西土家族苗族自治州"/>
+<tag k="addr:city" v="湘西土家族苗族自治州"/>
+</node>
+<node id="167" action="modify" visible="true" lat="28.7773730" lon="111.4198050">
+<tag k="name" v="桃花源旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 常德市"/>
+<tag k="addr:city" v="常德市"/>
+</node>
+<node id="168" action="modify" visible="true" lat="29.3455560" lon="110.4666670">
+<tag k="name" v="天门山景区（张家界武陵源—天门山旅游区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 张家界市"/>
+<tag k="addr:city" v="张家界市"/>
+</node>
+<node id="169" action="modify" visible="true" lat="26.4198280" lon="113.6648720">
+<tag k="name" v="炎帝陵景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 株洲市"/>
+<tag k="addr:city" v="株洲市"/>
+</node>
+<node id="170" action="modify" visible="true" lat="28.1946670" lon="112.9433730">
+<tag k="name" v="岳麓山—橘子洲旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 长沙市"/>
+<tag k="addr:city" v="长沙市"/>
+</node>
+<node id="171" action="modify" visible="true" lat="29.3847310" lon="113.0883390">
+<tag k="name" v="岳阳楼（岳阳楼—君山岛景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 岳阳市"/>
+<tag k="addr:city" v="岳阳市"/>
+</node>
+<node id="172" action="modify" visible="true" lat="29.3455560" lon="110.4666670">
+<tag k="name" v="张家界武陵源旅游区（张家界武陵源—天门山旅游区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="湖南省 张家界市"/>
+<tag k="addr:city" v="张家界市"/>
+</node>
+<node id="173" action="modify" visible="true" lat="47.1208580" lon="120.3879960">
+<tag k="name" v="阿尔山·柴河旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 兴安盟"/>
+<tag k="addr:city" v="兴安盟"/>
+</node>
+<node id="174" action="modify" visible="true" lat="49.8450830" lon="116.7130000">
+<tag k="name" v="中俄边境旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 呼伦贝尔市"/>
+<tag k="addr:city" v="呼伦贝尔市"/>
+</node>
+<node id="175" action="modify" visible="true" lat="43.9309110" lon="117.5351640">
+<tag k="name" v="哈斯哈图石阵旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 赤峰市"/>
+<tag k="addr:city" v="赤峰市"/>
+</node>
+<node id="176" action="modify" visible="true" lat="41.8063820" lon="101.0174260">
+<tag k="name" v="胡杨林旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 阿拉善盟"/>
+<tag k="addr:city" v="阿拉善盟"/>
+</node>
+<node id="177" action="modify" visible="true" lat="49.2333330" lon="119.3000000">
+<tag k="name" v="呼伦贝尔大草原·莫尔格勒河景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 呼伦贝尔市"/>
+<tag k="addr:city" v="呼伦贝尔市"/>
+</node>
+<node id="178" action="modify" visible="true" lat="39.6919390" lon="111.4658330">
+<tag k="name" v="老牛湾黄河大峡谷旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 呼和浩特市"/>
+<tag k="addr:city" v="呼和浩特市"/>
+</node>
+<node id="179" action="modify" visible="true" lat="39.3713870" lon="109.7788630">
+<tag k="name" v="成吉思汗陵旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 鄂尔多斯市"/>
+<tag k="addr:city" v="鄂尔多斯市"/>
+</node>
+<node id="180" action="modify" visible="true" lat="40.2379620" lon="109.9803570">
+<tag k="name" v="响沙湾旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="内蒙古自治区 鄂尔多斯市"/>
+<tag k="addr:city" v="鄂尔多斯市"/>
+</node>
+<node id="181" action="modify" visible="true" lat="32.2200000" lon="119.4600000">
+<tag k="name" v="北固山（金山·焦山·北固山旅游景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 镇江市"/>
+<tag k="addr:city" v="镇江市"/>
+</node>
+<node id="182" action="modify" visible="true" lat="31.4831000" lon="120.2293000">
+<tag k="name" v="中央电视台无锡影视基地三国水浒景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 无锡市"/>
+<tag k="addr:city" v="无锡市"/>
+</node>
+<node id="183" action="modify" visible="true" lat="31.8261670" lon="119.9976110">
+<tag k="name" v="环球恐龙城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 常州市"/>
+<tag k="addr:city" v="常州市"/>
+</node>
+<node id="184" action="modify" visible="true" lat="31.7054640" lon="119.9194600">
+<tag k="name" v="中国春秋淹城旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 常州市"/>
+<tag k="addr:city" v="常州市"/>
+</node>
+<node id="185" action="modify" visible="true" lat="31.3166670" lon="120.4500000">
+<tag k="name" v="苏州园林（拙政园、虎丘山、留园）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 苏州市"/>
+<tag k="addr:city" v="苏州市"/>
+</node>
+<node id="186" action="modify" visible="true" lat="32.0225780" lon="118.7837860">
+<tag k="name" v="夫子庙—秦淮风光带景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 南京市"/>
+<tag k="addr:city" v="南京市"/>
+</node>
+<node id="187" action="modify" visible="true" lat="32.9914150" lon="120.8161370">
+<tag k="name" v="大丰中华麋鹿园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 盐城市"/>
+<tag k="addr:city" v="盐城市"/>
+</node>
+<node id="188" action="modify" visible="true" lat="33.5082000" lon="119.1372000">
+<tag k="name" v="周恩来故里旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 淮安市"/>
+<tag k="addr:city" v="淮安市"/>
+</node>
+<node id="189" action="modify" visible="true" lat="31.4319440" lon="120.0913890">
+<tag k="name" v="灵山大佛景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 无锡市"/>
+<tag k="addr:city" v="无锡市"/>
+</node>
+<node id="190" action="modify" visible="true" lat="32.0131660" lon="120.8583510">
+<tag k="name" v="濠河景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 南通市"/>
+<tag k="addr:city" v="南通市"/>
+</node>
+<node id="191" action="modify" visible="true" lat="33.3075000" lon="118.7100000">
+<tag k="name" v="洪泽湖湿地景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 宿迁市"/>
+<tag k="addr:city" v="宿迁市"/>
+</node>
+<node id="192" action="modify" visible="true" lat="31.5830200" lon="120.2679900">
+<tag k="name" v="惠山古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 无锡市"/>
+<tag k="addr:city" v="无锡市"/>
+</node>
+<node id="193" action="modify" visible="true" lat="32.2408000" lon="119.4778000">
+<tag k="name" v="焦山（金山·焦山·北固山旅游景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 镇江市"/>
+<tag k="addr:city" v="镇江市"/>
+</node>
+<node id="194" action="modify" visible="true" lat="32.2174860" lon="119.4109130">
+<tag k="name" v="金山（金山·焦山·北固山旅游景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 镇江市"/>
+<tag k="addr:city" v="镇江市"/>
+</node>
+<node id="195" action="modify" visible="true" lat="31.3136110" lon="120.6916670">
+<tag k="name" v="金鸡湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 苏州市"/>
+<tag k="addr:city" v="苏州市"/>
+</node>
+<node id="196" action="modify" visible="true" lat="31.7885600" lon="119.2987400">
+<tag k="name" v="句容茅山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 镇江市"/>
+<tag k="addr:city" v="镇江市"/>
+</node>
+<node id="197" action="modify" visible="true" lat="34.7575000" lon="119.4638890">
+<tag k="name" v="连岛景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 连云港市"/>
+<tag k="addr:city" v="连云港市"/>
+</node>
+<node id="198" action="modify" visible="true" lat="34.6541070" lon="119.2883350">
+<tag k="name" v="花果山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 连云港市"/>
+<tag k="addr:city" v="连云港市"/>
+</node>
+<node id="199" action="modify" visible="true" lat="32.0833330" lon="118.8000000">
+<tag k="name" v="钟山风景名胜区-中山陵园风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 南京市"/>
+<tag k="addr:city" v="南京市"/>
+</node>
+<node id="200" action="modify" visible="true" lat="31.6510140" lon="120.6835720">
+<tag k="name" v="沙家浜·虞山尚湖旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 苏州市"/>
+<tag k="addr:city" v="苏州市"/>
+</node>
+<node id="201" action="modify" visible="true" lat="32.4100000" lon="119.4175000">
+<tag k="name" v="瘦西湖风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 扬州市"/>
+<tag k="addr:city" v="扬州市"/>
+</node>
+<node id="202" action="modify" visible="true" lat="31.3037720" lon="119.4286980">
+<tag k="name" v="天目湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 常州市"/>
+<tag k="addr:city" v="常州市"/>
+</node>
+<node id="203" action="modify" visible="true" lat="31.2152050" lon="120.4104930">
+<tag k="name" v="吴中太湖旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 苏州市"/>
+<tag k="addr:city" v="苏州市"/>
+</node>
+<node id="204" action="modify" visible="true" lat="31.1511100" lon="120.7181300">
+<tag k="name" v="吴江同里古镇风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 苏州市"/>
+<tag k="addr:city" v="苏州市"/>
+</node>
+<node id="205" action="modify" visible="true" lat="31.5178000" lon="120.2280000">
+<tag k="name" v="鼋头渚景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 无锡市"/>
+<tag k="addr:city" v="无锡市"/>
+</node>
+<node id="206" action="modify" visible="true" lat="34.2376000" lon="117.1567000">
+<tag k="name" v="云龙湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 徐州市"/>
+<tag k="addr:city" v="徐州市"/>
+</node>
+<node id="207" action="modify" visible="true" lat="32.6198130" lon="120.0989650">
+<tag k="name" v="溱湖旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 泰州市"/>
+<tag k="addr:city" v="泰州市"/>
+</node>
+<node id="208" action="modify" visible="true" lat="31.1309600" lon="120.8355300">
+<tag k="name" v="周庄古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江苏省 苏州市"/>
+<tag k="addr:city" v="苏州市"/>
+</node>
+<node id="209" action="modify" visible="true" lat="25.9085530" lon="116.0675050">
+<tag k="name" v="共和国摇篮旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 赣州市"/>
+<tag k="addr:city" v="赣州市"/>
+</node>
+<node id="210" action="modify" visible="true" lat="28.3166670" lon="117.4000000">
+<tag k="name" v="龟峰景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 上饶市"/>
+<tag k="addr:city" v="上饶市"/>
+</node>
+<node id="211" action="modify" visible="true" lat="29.3201210" lon="118.1170730">
+<tag k="name" v="篁岭景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 上饶市"/>
+<tag k="addr:city" v="上饶市"/>
+</node>
+<node id="212" action="modify" visible="true" lat="29.2872470" lon="117.1790980">
+<tag k="name" v="景德镇古窑民俗博览区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 景德镇市"/>
+<tag k="addr:city" v="景德镇市"/>
+</node>
+<node id="213" action="modify" visible="true" lat="26.6036110" lon="114.1958330">
+<tag k="name" v="井冈山风景旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 吉安市"/>
+<tag k="addr:city" v="吉安市"/>
+</node>
+<node id="214" action="modify" visible="true" lat="29.2052780" lon="115.5008330">
+<tag k="name" v="庐山西海景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 九江市"/>
+<tag k="addr:city" v="九江市"/>
+</node>
+<node id="215" action="modify" visible="true" lat="27.6061370" lon="114.2559900">
+<tag k="name" v="明月山旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 宜春市"/>
+<tag k="addr:city" v="宜春市"/>
+</node>
+<node id="216" action="modify" visible="true" lat="27.6952780" lon="117.1969440">
+<tag k="name" v="大觉山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 抚州市"/>
+<tag k="addr:city" v="抚州市"/>
+</node>
+<node id="217" action="modify" visible="true" lat="28.0833330" lon="116.9666670">
+<tag k="name" v="龙虎山旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 鹰潭市"/>
+<tag k="addr:city" v="鹰潭市"/>
+</node>
+<node id="218" action="modify" visible="true" lat="29.4333330" lon="115.8666670">
+<tag k="name" v="庐山风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 九江市"/>
+<tag k="addr:city" v="九江市"/>
+</node>
+<node id="219" action="modify" visible="true" lat="28.9158330" lon="118.0644440">
+<tag k="name" v="三清山旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 上饶市"/>
+<tag k="addr:city" v="上饶市"/>
+</node>
+<node id="220" action="modify" visible="true" lat="28.6841000" lon="115.8758000">
+<tag k="name" v="滕王阁旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 南昌市"/>
+<tag k="addr:city" v="南昌市"/>
+</node>
+<node id="221" action="modify" visible="true" lat="24.9507900" lon="115.3718900">
+<tag k="name" v="三百山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 赣州市"/>
+<tag k="addr:city" v="赣州市"/>
+</node>
+<node id="222" action="modify" visible="true" lat="29.3729200" lon="118.0498500">
+<tag k="name" v="婺源江湾景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 上饶市"/>
+<tag k="addr:city" v="上饶市"/>
+</node>
+<node id="223" action="modify" visible="true" lat="27.4552780" lon="114.1733330">
+<tag k="name" v="武功山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="江西省 萍乡市"/>
+<tag k="addr:city" v="萍乡市"/>
+</node>
+<node id="224" action="modify" visible="true" lat="45.2500000" lon="124.2800000">
+<tag k="name" v="查干湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 松原市"/>
+<tag k="addr:city" v="松原市"/>
+</node>
+<node id="225" action="modify" visible="true" lat="43.7703420" lon="125.4395020">
+<tag k="name" v="长影世纪城旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 长春市"/>
+<tag k="addr:city" v="长春市"/>
+</node>
+<node id="226" action="modify" visible="true" lat="43.8204000" lon="125.3260000">
+<tag k="name" v="长春世界雕塑公园旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 长春市"/>
+<tag k="addr:city" v="长春市"/>
+</node>
+<node id="227" action="modify" visible="true" lat="45.5288100" lon="124.2882470">
+<tag k="name" v="大安嫩江湾旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 白城市"/>
+<tag k="addr:city" v="白城市"/>
+</node>
+<node id="228" action="modify" visible="true" lat="41.1430340" lon="126.2117560">
+<tag k="name" v="高句丽文物古迹旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 通化市"/>
+<tag k="addr:city" v="通化市"/>
+</node>
+<node id="229" action="modify" visible="true" lat="43.7821000" lon="125.4604000">
+<tag k="name" v="净月潭景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 长春市"/>
+<tag k="addr:city" v="长春市"/>
+</node>
+<node id="230" action="modify" visible="true" lat="43.3308550" lon="128.2214020">
+<tag k="name" v="六鼎山文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 延边朝鲜族自治州"/>
+<tag k="addr:city" v="延边朝鲜族自治州"/>
+</node>
+<node id="231" action="modify" visible="true" lat="42.0072220" lon="128.0591670">
+<tag k="name" v="长白山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 白山市"/>
+<tag k="addr:city" v="白山市"/>
+</node>
+<node id="232" action="modify" visible="true" lat="43.9032770" lon="125.3418850">
+<tag k="name" v="伪满皇宫博物院"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="吉林省 长春市"/>
+<tag k="addr:city" v="长春市"/>
+</node>
+<node id="233" action="modify" visible="true" lat="41.2980170" lon="124.0996660">
+<tag k="name" v="本溪水洞景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="辽宁省 本溪市"/>
+<tag k="addr:city" v="本溪市"/>
+</node>
+<node id="234" action="modify" visible="true" lat="38.8730100" lon="121.6731300">
+<tag k="name" v="大连老虎滩海洋公园.老虎滩极地馆"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="辽宁省 大连市"/>
+<tag k="addr:city" v="大连市"/>
+</node>
+<node id="235" action="modify" visible="true" lat="40.8478940" lon="121.8420100">
+<tag k="name" v="红海滩风景廊道景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="辽宁省 盘锦市"/>
+<tag k="addr:city" v="盘锦市"/>
+</node>
+<node id="236" action="modify" visible="true" lat="39.0811700" lon="122.0016700">
+<tag k="name" v="金石滩景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="辽宁省 大连市"/>
+<tag k="addr:city" v="大连市"/>
+</node>
+<node id="237" action="modify" visible="true" lat="41.0263890" lon="123.1361110">
+<tag k="name" v="千山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="辽宁省 鞍山市"/>
+<tag k="addr:city" v="鞍山市"/>
+</node>
+<node id="238" action="modify" visible="true" lat="41.8586110" lon="123.6438890">
+<tag k="name" v="沈阳市植物园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="辽宁省 沈阳市"/>
+<tag k="addr:city" v="沈阳市"/>
+</node>
+<node id="239" action="modify" visible="true" lat="41.3023260" lon="125.4579240">
+<tag k="name" v="五女山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="辽宁省 本溪市"/>
+<tag k="addr:city" v="本溪市"/>
+</node>
+<node id="240" action="modify" visible="true" lat="37.8848440" lon="105.9909550">
+<tag k="name" v="黄河大峡谷旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="宁夏回族自治区 吴忠市"/>
+<tag k="addr:city" v="吴忠市"/>
+</node>
+<node id="241" action="modify" visible="true" lat="35.7747000" lon="106.1837220">
+<tag k="name" v="六盘山红军长征旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="宁夏回族自治区 固原市"/>
+<tag k="addr:city" v="固原市"/>
+</node>
+<node id="242" action="modify" visible="true" lat="38.8249500" lon="106.3677070">
+<tag k="name" v="沙湖旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="宁夏回族自治区 石嘴山市"/>
+<tag k="addr:city" v="石嘴山市"/>
+</node>
+<node id="243" action="modify" visible="true" lat="37.4641060" lon="104.9932830">
+<tag k="name" v="沙坡头旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="宁夏回族自治区 中卫市"/>
+<tag k="addr:city" v="中卫市"/>
+</node>
+<node id="244" action="modify" visible="true" lat="38.2987500" lon="106.5018330">
+<tag k="name" v="灵武水洞沟旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="宁夏回族自治区 银川市"/>
+<tag k="addr:city" v="银川市"/>
+</node>
+<node id="245" action="modify" visible="true" lat="38.6154960" lon="106.0664960">
+<tag k="name" v="镇北堡西部影视城"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="宁夏回族自治区 银川市"/>
+<tag k="addr:city" v="银川市"/>
+</node>
+<node id="246" action="modify" visible="true" lat="38.1831820" lon="100.2644550">
+<tag k="name" v="阿咪东索景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="青海省 海北藏族自治州"/>
+<tag k="addr:city" v="海北藏族自治州"/>
+</node>
+<node id="247" action="modify" visible="true" lat="36.8336250" lon="101.9466660">
+<tag k="name" v="互助土族故土园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="青海省 海东市"/>
+<tag k="addr:city" v="海东市"/>
+</node>
+<node id="248" action="modify" visible="true" lat="36.4814390" lon="101.5991920">
+<tag k="name" v="塔尔寺景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="青海省 西宁市"/>
+<tag k="addr:city" v="西宁市"/>
+</node>
+<node id="249" action="modify" visible="true" lat="37.0000000" lon="100.1333330">
+<tag k="name" v="青海湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="青海省 海北藏族自治州"/>
+<tag k="addr:city" v="海北藏族自治州"/>
+</node>
+<node id="250" action="modify" visible="true" lat="34.2891700" lon="108.9594600">
+<tag k="name" v="大明宫旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 西安市"/>
+<tag k="addr:city" v="西安市"/>
+</node>
+<node id="251" action="modify" visible="true" lat="34.4416670" lon="107.8997220">
+<tag k="name" v="法门寺佛文化景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 宝鸡市"/>
+<tag k="addr:city" v="宝鸡市"/>
+</node>
+<node id="252" action="modify" visible="true" lat="34.2197690" lon="108.9593360">
+<tag k="name" v="大雁塔·大唐芙蓉园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 西安市"/>
+<tag k="addr:city" v="西安市"/>
+</node>
+<node id="253" action="modify" visible="true" lat="36.7202800" lon="110.4099200">
+<tag k="name" v="黄河乾坤湾景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 延安市"/>
+<tag k="addr:city" v="延安市"/>
+</node>
+<node id="254" action="modify" visible="true" lat="34.3617580" lon="109.2129910">
+<tag k="name" v="华清池景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 西安市"/>
+<tag k="addr:city" v="西安市"/>
+</node>
+<node id="255" action="modify" visible="true" lat="36.1488300" lon="110.4439400">
+<tag k="name" v="黄河壶口瀑布旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 延安市"/>
+<tag k="addr:city" v="延安市"/>
+</node>
+<node id="256" action="modify" visible="true" lat="33.3511870" lon="110.5578900">
+<tag k="name" v="金丝峡景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 商洛市"/>
+<tag k="addr:city" v="商洛市"/>
+</node>
+<node id="257" action="modify" visible="true" lat="34.3819440" lon="109.2536110">
+<tag k="name" v="秦始皇兵马俑博物馆"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 西安市"/>
+<tag k="addr:city" v="西安市"/>
+</node>
+<node id="258" action="modify" visible="true" lat="35.5851000" lon="109.2698000">
+<tag k="name" v="黄帝陵景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 延安市"/>
+<tag k="addr:city" v="延安市"/>
+</node>
+<node id="259" action="modify" visible="true" lat="34.4633330" lon="110.0808330">
+<tag k="name" v="华山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 渭南市"/>
+<tag k="addr:city" v="渭南市"/>
+</node>
+<node id="260" action="modify" visible="true" lat="33.9550000" lon="107.7633330">
+<tag k="name" v="太白山旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 宝鸡市"/>
+<tag k="addr:city" v="宝鸡市"/>
+</node>
+<node id="261" action="modify" visible="true" lat="34.5731580" lon="108.2185940">
+<tag k="name" v="乾陵景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 咸阳市"/>
+<tag k="addr:city" v="咸阳市"/>
+</node>
+<node id="262" action="modify" visible="true" lat="34.2534000" lon="108.9423000">
+<tag k="name" v="城墙·碑林历史文化景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 西安市"/>
+<tag k="addr:city" v="西安市"/>
+</node>
+<node id="263" action="modify" visible="true" lat="36.6096310" lon="109.4719550">
+<tag k="name" v="延安革命纪念地景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="陕西省 延安市"/>
+<tag k="addr:city" v="延安市"/>
+</node>
+<node id="264" action="modify" visible="true" lat="37.4217670" lon="122.1107470">
+<tag k="name" v="华夏城旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 威海市"/>
+<tag k="addr:city" v="威海市"/>
+</node>
+<node id="265" action="modify" visible="true" lat="37.6867200" lon="118.8343300">
+<tag k="name" v="黄河口生态旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 东营市"/>
+<tag k="addr:city" v="东营市"/>
+</node>
+<node id="266" action="modify" visible="true" lat="37.5004670" lon="122.1801580">
+<tag k="name" v="刘公岛景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 威海市"/>
+<tag k="addr:city" v="威海市"/>
+</node>
+<node id="267" action="modify" visible="true" lat="37.5687920" lon="120.4725700">
+<tag k="name" v="龙口南山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 烟台市"/>
+<tag k="addr:city" v="烟台市"/>
+</node>
+<node id="268" action="modify" visible="true" lat="36.1750000" lon="120.6263890">
+<tag k="name" v="崂山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 青岛市"/>
+<tag k="addr:city" v="青岛市"/>
+</node>
+<node id="269" action="modify" visible="true" lat="36.2558330" lon="117.1075000">
+<tag k="name" v="泰山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 泰安市"/>
+<tag k="addr:city" v="泰安市"/>
+</node>
+<node id="270" action="modify" visible="true" lat="37.8299890" lon="120.7507320">
+<tag k="name" v="蓬莱阁旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 烟台市"/>
+<tag k="addr:city" v="烟台市"/>
+</node>
+<node id="271" action="modify" visible="true" lat="36.6771300" lon="118.4736400">
+<tag k="name" v="青州古城旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 潍坊市"/>
+<tag k="addr:city" v="潍坊市"/>
+</node>
+<node id="272" action="modify" visible="true" lat="36.0602080" lon="120.3904800">
+<tag k="name" v="奥帆海洋文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 青岛市"/>
+<tag k="addr:city" v="青岛市"/>
+</node>
+<node id="273" action="modify" visible="true" lat="34.5601670" lon="117.7403610">
+<tag k="name" v="台儿庄古城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 枣庄市"/>
+<tag k="addr:city" v="枣庄市"/>
+</node>
+<node id="274" action="modify" visible="true" lat="35.6116670" lon="116.9750000">
+<tag k="name" v="曲阜明故城（三孔）旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 济宁市"/>
+<tag k="addr:city" v="济宁市"/>
+</node>
+<node id="275" action="modify" visible="true" lat="36.6608800" lon="117.0103000">
+<tag k="name" v="天下第一泉景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 济南市"/>
+<tag k="addr:city" v="济南市"/>
+</node>
+<node id="276" action="modify" visible="true" lat="34.6000000" lon="117.2000000">
+<tag k="name" v="微山湖旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 济宁市"/>
+<tag k="addr:city" v="济宁市"/>
+</node>
+<node id="277" action="modify" visible="true" lat="35.6681000" lon="117.7790000">
+<tag k="name" v="沂蒙山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 临沂市"/>
+<tag k="addr:city" v="临沂市"/>
+</node>
+<node id="278" action="modify" visible="true" lat="35.7174990" lon="118.4475870">
+<tag k="name" v="萤火虫水洞·地下大峡谷旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 临沂市"/>
+<tag k="addr:city" v="临沂市"/>
+</node>
+<node id="279" action="modify" visible="true" lat="36.7978940" lon="117.8352570">
+<tag k="name" v="周村古商城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山东省 淄博市"/>
+<tag k="addr:city" v="淄博市"/>
+</node>
+<node id="280" action="modify" visible="true" lat="31.2419000" lon="121.4952600">
+<tag k="name" v="上海东方明珠广播电视塔"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="上海市 上海市"/>
+<tag k="addr:city" v="上海市"/>
+</node>
+<node id="281" action="modify" visible="true" lat="31.0547500" lon="121.7243330">
+<tag k="name" v="上海野生动物园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="上海市 上海市"/>
+<tag k="addr:city" v="上海市"/>
+</node>
+<node id="282" action="modify" visible="true" lat="31.2201470" lon="121.5372330">
+<tag k="name" v="上海科技馆"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="上海市 上海市"/>
+<tag k="addr:city" v="上海市"/>
+</node>
+<node id="283" action="modify" visible="true" lat="31.2220000" lon="121.4707000">
+<tag k="name" v="二大纪念馆（中国共产党一大·二大·四大纪念馆景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="上海市 上海市"/>
+<tag k="addr:city" v="上海市"/>
+</node>
+<node id="284" action="modify" visible="true" lat="31.2220000" lon="121.4707000">
+<tag k="name" v="四大纪念馆（中国共产党一大·二大·四大纪念馆景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="上海市 上海市"/>
+<tag k="addr:city" v="上海市"/>
+</node>
+<node id="285" action="modify" visible="true" lat="31.2220000" lon="121.4707000">
+<tag k="name" v="一大纪念馆（中国共产党一大·二大·四大纪念馆景区）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="上海市 上海市"/>
+<tag k="addr:city" v="上海市"/>
+</node>
+<node id="286" action="modify" visible="true" lat="31.7400360" lon="121.2530120">
+<tag k="name" v="西沙明珠湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="上海市 上海市"/>
+<tag k="addr:city" v="上海市"/>
+</node>
+<node id="287" action="modify" visible="true" lat="34.9105560" lon="110.8433330">
+<tag k="name" v="运城关公故里文化旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 运城市"/>
+<tag k="addr:city" v="运城市"/>
+</node>
+<node id="288" action="modify" visible="true" lat="35.5144440" lon="112.5777780">
+<tag k="name" v="皇城相府生态文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 晋城市"/>
+<tag k="addr:city" v="晋城市"/>
+</node>
+<node id="289" action="modify" visible="true" lat="36.1488300" lon="110.4439400">
+<tag k="name" v="黄河壶口瀑布旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 临汾市"/>
+<tag k="addr:city" v="临汾市"/>
+</node>
+<node id="290" action="modify" visible="true" lat="36.9048760" lon="111.9554410">
+<tag k="name" v="介休绵山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 晋中市"/>
+<tag k="addr:city" v="晋中市"/>
+</node>
+<node id="291" action="modify" visible="true" lat="37.7083180" lon="112.4357900">
+<tag k="name" v="晋祠天龙山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 太原市"/>
+<tag k="addr:city" v="太原市"/>
+</node>
+<node id="292" action="modify" visible="true" lat="36.2678000" lon="111.6765000">
+<tag k="name" v="洪洞大槐树寻根祭祖园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 临汾市"/>
+<tag k="addr:city" v="临汾市"/>
+</node>
+<node id="293" action="modify" visible="true" lat="39.0791670" lon="113.5647220">
+<tag k="name" v="五台山风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 忻州市"/>
+<tag k="addr:city" v="忻州市"/>
+</node>
+<node id="294" action="modify" visible="true" lat="37.2013890" lon="112.1544440">
+<tag k="name" v="平遥古城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 晋中市"/>
+<tag k="addr:city" v="晋中市"/>
+</node>
+<node id="295" action="modify" visible="true" lat="36.9941670" lon="113.9277780">
+<tag k="name" v="壶关太行山大峡谷八泉峡景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 长治市"/>
+<tag k="addr:city" v="长治市"/>
+</node>
+<node id="296" action="modify" visible="true" lat="39.1869440" lon="112.8633330">
+<tag k="name" v="雁门关景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 忻州市"/>
+<tag k="addr:city" v="忻州市"/>
+</node>
+<node id="297" action="modify" visible="true" lat="35.7417930" lon="111.0322850">
+<tag k="name" v="云丘山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 临汾市"/>
+<tag k="addr:city" v="临汾市"/>
+</node>
+<node id="298" action="modify" visible="true" lat="40.1100000" lon="113.1225000">
+<tag k="name" v="云冈石窟"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="山西省 大同市"/>
+<tag k="addr:city" v="大同市"/>
+</node>
+<node id="299" action="modify" visible="true" lat="30.5169100" lon="103.6142800">
+<tag k="name" v="安仁古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 成都市"/>
+<tag k="addr:city" v="成都市"/>
+</node>
+<node id="300" action="modify" visible="true" lat="31.6190730" lon="104.4674770">
+<tag k="name" v="北川羌城旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 绵阳市"/>
+<tag k="addr:city" v="绵阳市"/>
+</node>
+<node id="301" action="modify" visible="true" lat="30.0773000" lon="102.9880000">
+<tag k="name" v="碧峰峡旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 雅安市"/>
+<tag k="addr:city" v="雅安市"/>
+</node>
+<node id="302" action="modify" visible="true" lat="28.3666670" lon="100.2333330">
+<tag k="name" v="稻城亚丁旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 甘孜藏族自治州"/>
+<tag k="addr:city" v="甘孜藏族自治州"/>
+</node>
+<node id="303" action="modify" visible="true" lat="30.5193090" lon="106.6316530">
+<tag k="name" v="邓小平故里旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 广安市"/>
+<tag k="addr:city" v="广安市"/>
+</node>
+<node id="304" action="modify" visible="true" lat="31.4722090" lon="106.6067200">
+<tag k="name" v="仪陇朱德故里景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 南充市"/>
+<tag k="addr:city" v="南充市"/>
+</node>
+<node id="305" action="modify" visible="true" lat="32.5770000" lon="106.8520000">
+<tag k="name" v="光雾山旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 巴中市"/>
+<tag k="addr:city" v="巴中市"/>
+</node>
+<node id="306" action="modify" visible="true" lat="29.5666670" lon="101.9500000">
+<tag k="name" v="海螺沟景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 甘孜藏族自治州"/>
+<tag k="addr:city" v="甘孜藏族自治州"/>
+</node>
+<node id="307" action="modify" visible="true" lat="32.7541700" lon="103.8222200">
+<tag k="name" v="黄龙景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 阿坝藏族羌族自治州"/>
+<tag k="addr:city" v="阿坝藏族羌族自治州"/>
+</node>
+<node id="308" action="modify" visible="true" lat="32.2130560" lon="105.5633330">
+<tag k="name" v="剑门蜀道剑门关旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 广元市"/>
+<tag k="addr:city" v="广元市"/>
+</node>
+<node id="309" action="modify" visible="true" lat="33.0833300" lon="103.9166700">
+<tag k="name" v="九寨沟旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 阿坝藏族羌族自治州"/>
+<tag k="addr:city" v="阿坝藏族羌族自治州"/>
+</node>
+<node id="310" action="modify" visible="true" lat="31.5832600" lon="105.9719500">
+<tag k="name" v="阆中古城旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 南充市"/>
+<tag k="addr:city" v="南充市"/>
+</node>
+<node id="311" action="modify" visible="true" lat="29.5470190" lon="103.7692390">
+<tag k="name" v="乐山大佛景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 乐山市"/>
+<tag k="addr:city" v="乐山市"/>
+</node>
+<node id="312" action="modify" visible="true" lat="29.5197220" lon="103.3325000">
+<tag k="name" v="峨眉山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 乐山市"/>
+<tag k="addr:city" v="乐山市"/>
+</node>
+<node id="313" action="modify" visible="true" lat="30.9733330" lon="103.5155560">
+<tag k="name" v="青城山—都江堰旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 成都市"/>
+<tag k="addr:city" v="成都市"/>
+</node>
+<node id="314" action="modify" visible="true" lat="31.1063570" lon="102.9019890">
+<tag k="name" v="四姑娘山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 阿坝藏族羌族自治州"/>
+<tag k="addr:city" v="阿坝藏族羌族自治州"/>
+</node>
+<node id="315" action="modify" visible="true" lat="30.2816000" lon="103.1135440">
+<tag k="name" v="天台山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 成都市"/>
+<tag k="addr:city" v="成都市"/>
+</node>
+<node id="316" action="modify" visible="true" lat="31.4837890" lon="103.5884030">
+<tag k="name" v="汶川特别旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="四川省 阿坝藏族羌族自治州"/>
+<tag k="addr:city" v="阿坝藏族羌族自治州"/>
+</node>
+<node id="317" action="modify" visible="true" lat="40.0825000" lon="117.2663890">
+<tag k="name" v="天津盘山风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="天津市 天津市"/>
+<tag k="addr:city" v="天津市"/>
+</node>
+<node id="318" action="modify" visible="true" lat="39.1415200" lon="117.1866500">
+<tag k="name" v="天津古文化街旅游区（津门故里）"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="天津市 天津市"/>
+<tag k="addr:city" v="天津市"/>
+</node>
+<node id="319" action="modify" visible="true" lat="29.6530560" lon="91.1322220">
+<tag k="name" v="大昭寺"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="西藏自治区 拉萨市"/>
+<tag k="addr:city" v="拉萨市"/>
+</node>
+<node id="320" action="modify" visible="true" lat="30.0141670" lon="93.9502780">
+<tag k="name" v="巴松措景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="西藏自治区 林芝市"/>
+<tag k="addr:city" v="林芝市"/>
+</node>
+<node id="321" action="modify" visible="true" lat="29.6578000" lon="91.1169000">
+<tag k="name" v="布达拉宫景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="西藏自治区 拉萨市"/>
+<tag k="addr:city" v="拉萨市"/>
+</node>
+<node id="322" action="modify" visible="true" lat="29.2686100" lon="88.8699400">
+<tag k="name" v="扎什伦布寺景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="西藏自治区 日喀则市"/>
+<tag k="addr:city" v="日喀则市"/>
+</node>
+<node id="323" action="modify" visible="true" lat="29.7697400" lon="94.9898500">
+<tag k="name" v="雅鲁藏布大峡谷旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="西藏自治区 林芝市"/>
+<tag k="addr:city" v="林芝市"/>
+</node>
+<node id="324" action="modify" visible="true" lat="48.3518430" lon="85.7500240">
+<tag k="name" v="白沙湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 阿勒泰地区"/>
+<tag k="addr:city" v="阿勒泰地区"/>
+</node>
+<node id="325" action="modify" visible="true" lat="42.7500000" lon="84.3300000">
+<tag k="name" v="和静巴音布鲁克景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 巴音郭楞蒙古自治州"/>
+<tag k="addr:city" v="巴音郭楞蒙古自治州"/>
+</node>
+<node id="326" action="modify" visible="true" lat="42.0000000" lon="87.0000000">
+<tag k="name" v="博斯腾湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 巴音郭楞蒙古自治州"/>
+<tag k="addr:city" v="巴音郭楞蒙古自治州"/>
+</node>
+<node id="327" action="modify" visible="true" lat="43.0039000" lon="89.2423000">
+<tag k="name" v="葡萄沟风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 吐鲁番市"/>
+<tag k="addr:city" v="吐鲁番市"/>
+</node>
+<node id="328" action="modify" visible="true" lat="42.0350000" lon="80.1255560">
+<tag k="name" v="新疆天山天池风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 昌吉回族自治州"/>
+<tag k="addr:city" v="昌吉回族自治州"/>
+</node>
+<node id="329" action="modify" visible="true" lat="43.6576270" lon="89.7384860">
+<tag k="name" v="江布拉克景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 昌吉回族自治州"/>
+<tag k="addr:city" v="昌吉回族自治州"/>
+</node>
+<node id="330" action="modify" visible="true" lat="43.2282800" lon="82.0984000">
+<tag k="name" v="喀拉峻景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 伊犁哈萨克自治州"/>
+<tag k="addr:city" v="伊犁哈萨克自治州"/>
+</node>
+<node id="331" action="modify" visible="true" lat="48.8213890" lon="87.0472220">
+<tag k="name" v="喀纳斯景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 阿勒泰地区"/>
+<tag k="addr:city" v="阿勒泰地区"/>
+</node>
+<node id="332" action="modify" visible="true" lat="39.4703690" lon="75.9891360">
+<tag k="name" v="喀什噶尔老城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 喀什地区"/>
+<tag k="addr:city" v="喀什地区"/>
+</node>
+<node id="333" action="modify" visible="true" lat="47.2197000" lon="89.8109200">
+<tag k="name" v="可可托海景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 阿勒泰地区"/>
+<tag k="addr:city" v="阿勒泰地区"/>
+</node>
+<node id="334" action="modify" visible="true" lat="43.2900000" lon="84.2200000">
+<tag k="name" v="那拉提旅游风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 伊犁哈萨克自治州"/>
+<tag k="addr:city" v="伊犁哈萨克自治州"/>
+</node>
+<node id="335" action="modify" visible="true" lat="36.9333330" lon="75.5544440">
+<tag k="name" v="帕米尔旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 喀什地区"/>
+<tag k="addr:city" v="喀什地区"/>
+</node>
+<node id="336" action="modify" visible="true" lat="44.6000000" lon="81.2000000">
+<tag k="name" v="赛里木湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 博尔塔拉蒙古自治州"/>
+<tag k="addr:city" v="博尔塔拉蒙古自治州"/>
+</node>
+<node id="337" action="modify" visible="true" lat="40.5487640" lon="81.2778720">
+<tag k="name" v="塔克拉玛干·三五九旅文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 新疆维吾尔自治区"/>
+<tag k="addr:city" v="新疆维吾尔自治区"/>
+</node>
+<node id="338" action="modify" visible="true" lat="41.7131200" lon="80.3524610">
+<tag k="name" v="天山托木尔景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 阿克苏地区"/>
+<tag k="addr:city" v="阿克苏地区"/>
+</node>
+<node id="339" action="modify" visible="true" lat="43.4311280" lon="87.3737680">
+<tag k="name" v="天山大峡谷景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 乌鲁木齐市"/>
+<tag k="addr:city" v="乌鲁木齐市"/>
+</node>
+<node id="340" action="modify" visible="true" lat="46.1250000" lon="85.7300000">
+<tag k="name" v="世界魔鬼城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 克拉玛依市"/>
+<tag k="addr:city" v="克拉玛依市"/>
+</node>
+<node id="341" action="modify" visible="true" lat="38.1274280" lon="77.2455620">
+<tag k="name" v="泽普金湖杨景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="新疆维吾尔自治区 喀什地区"/>
+<tag k="addr:city" v="喀什地区"/>
+</node>
+<node id="342" action="modify" visible="true" lat="24.8376300" lon="99.0291500">
+<tag k="name" v="和顺古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 保山市"/>
+<tag k="addr:city" v="保山市"/>
+</node>
+<node id="343" action="modify" visible="true" lat="27.0983330" lon="100.1750000">
+<tag k="name" v="玉龙雪山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 丽江市"/>
+<tag k="addr:city" v="丽江市"/>
+</node>
+<node id="344" action="modify" visible="true" lat="26.8797220" lon="100.2269440">
+<tag k="name" v="丽江古城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 丽江市"/>
+<tag k="addr:city" v="丽江市"/>
+</node>
+<node id="345" action="modify" visible="true" lat="27.8250000" lon="99.9952780">
+<tag k="name" v="香格里拉普达措景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 迪庆藏族自治州"/>
+<tag k="addr:city" v="迪庆藏族自治州"/>
+</node>
+<node id="346" action="modify" visible="true" lat="24.1333330" lon="104.1000000">
+<tag k="name" v="普者黑旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 文山壮族苗族自治州"/>
+<tag k="addr:city" v="文山壮族苗族自治州"/>
+</node>
+<node id="347" action="modify" visible="true" lat="24.8178000" lon="103.3250000">
+<tag k="name" v="石林风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 昆明市"/>
+<tag k="addr:city" v="昆明市"/>
+</node>
+<node id="348" action="modify" visible="true" lat="24.9506500" lon="98.4377700">
+<tag k="name" v="腾冲火山热海旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 保山市"/>
+<tag k="addr:city" v="保山市"/>
+</node>
+<node id="349" action="modify" visible="true" lat="25.7084890" lon="100.1459390">
+<tag k="name" v="崇圣寺三塔文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 大理白族自治州"/>
+<tag k="addr:city" v="大理白族自治州"/>
+</node>
+<node id="350" action="modify" visible="true" lat="25.0804000" lon="102.7653000">
+<tag k="name" v="昆明世博园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 昆明市"/>
+<tag k="addr:city" v="昆明市"/>
+</node>
+<node id="351" action="modify" visible="true" lat="21.9276000" lon="101.2542000">
+<tag k="name" v="中国科学院西双版纳热带植物园"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="云南省 西双版纳傣族自治州"/>
+<tag k="addr:city" v="西双版纳傣族自治州"/>
+</node>
+<node id="352" action="modify" visible="true" lat="29.1790680" lon="120.2980830">
+<tag k="name" v="横店影视城景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 金华市"/>
+<tag k="addr:city" v="金华市"/>
+</node>
+<node id="353" action="modify" visible="true" lat="28.6922220" lon="120.1391670">
+<tag k="name" v="缙云仙都景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 丽水市"/>
+<tag k="addr:city" v="丽水市"/>
+</node>
+<node id="354" action="modify" visible="true" lat="29.1349180" lon="118.3897500">
+<tag k="name" v="开化根宫佛国文化旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 衢州市"/>
+<tag k="addr:city" v="衢州市"/>
+</node>
+<node id="355" action="modify" visible="true" lat="27.9194500" lon="119.9515110">
+<tag k="name" v="刘伯温故里景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 温州市"/>
+<tag k="addr:city" v="温州市"/>
+</node>
+<node id="356" action="modify" visible="true" lat="29.9950000" lon="120.5811110">
+<tag k="name" v="鲁迅故里·沈园景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 绍兴市"/>
+<tag k="addr:city" v="绍兴市"/>
+</node>
+<node id="357" action="modify" visible="true" lat="28.5297220" lon="118.5652780">
+<tag k="name" v="江郎山·廿八都景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 衢州市"/>
+<tag k="addr:city" v="衢州市"/>
+</node>
+<node id="358" action="modify" visible="true" lat="30.0108000" lon="122.3864000">
+<tag k="name" v="普陀山风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 舟山市"/>
+<tag k="addr:city" v="舟山市"/>
+</node>
+<node id="359" action="modify" visible="true" lat="30.8694000" lon="120.4199600">
+<tag k="name" v="南浔古镇景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 湖州市"/>
+<tag k="addr:city" v="湖州市"/>
+</node>
+<node id="360" action="modify" visible="true" lat="29.4836110" lon="119.2136110">
+<tag k="name" v="千岛湖风景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 杭州市"/>
+<tag k="addr:city" v="杭州市"/>
+</node>
+<node id="361" action="modify" visible="true" lat="28.6880300" lon="120.6061900">
+<tag k="name" v="神仙居景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 台州市"/>
+<tag k="addr:city" v="台州市"/>
+</node>
+<node id="362" action="modify" visible="true" lat="29.2027780" lon="119.6208330">
+<tag k="name" v="双龙风景旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 金华市"/>
+<tag k="addr:city" v="金华市"/>
+</node>
+<node id="363" action="modify" visible="true" lat="30.7592040" lon="120.7547650">
+<tag k="name" v="南湖旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 嘉兴市"/>
+<tag k="addr:city" v="嘉兴市"/>
+</node>
+<node id="364" action="modify" visible="true" lat="28.8499500" lon="121.1137150">
+<tag k="name" v="台州府城文化旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 台州市"/>
+<tag k="addr:city" v="台州市"/>
+</node>
+<node id="365" action="modify" visible="true" lat="29.1788430" lon="121.0422130">
+<tag k="name" v="天台山景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 台州市"/>
+<tag k="addr:city" v="台州市"/>
+</node>
+<node id="366" action="modify" visible="true" lat="29.8736110" lon="121.5358330">
+<tag k="name" v="天一阁·月湖景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 宁波市"/>
+<tag k="addr:city" v="宁波市"/>
+</node>
+<node id="367" action="modify" visible="true" lat="30.2458330" lon="120.1416670">
+<tag k="name" v="西湖风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 杭州市"/>
+<tag k="addr:city" v="杭州市"/>
+</node>
+<node id="368" action="modify" visible="true" lat="30.7427000" lon="120.4880000">
+<tag k="name" v="桐乡乌镇古镇旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 嘉兴市"/>
+<tag k="addr:city" v="嘉兴市"/>
+</node>
+<node id="369" action="modify" visible="true" lat="29.6898400" lon="121.2834900">
+<tag k="name" v="溪口滕头旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 宁波市"/>
+<tag k="addr:city" v="宁波市"/>
+</node>
+<node id="370" action="modify" visible="true" lat="30.9412300" lon="120.8872500">
+<tag k="name" v="西塘古镇旅游景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 嘉兴市"/>
+<tag k="addr:city" v="嘉兴市"/>
+</node>
+<node id="371" action="modify" visible="true" lat="30.2705560" lon="120.0625000">
+<tag k="name" v="西溪湿地旅游区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 杭州市"/>
+<tag k="addr:city" v="杭州市"/>
+</node>
+<node id="372" action="modify" visible="true" lat="28.3700000" lon="121.0600000">
+<tag k="name" v="雁荡山风景名胜区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 温州市"/>
+<tag k="addr:city" v="温州市"/>
+</node>
+<node id="373" action="modify" visible="true" lat="28.0510000" lon="119.4960000">
+<tag k="name" v="云和梯田景区"/>
+<tag k="brand" v="5A景区"/>
+<tag k="tourism" v="attraction"/>
+<tag k="poi_group" v="5A景区"/>
+<tag k="addr:full" v="浙江省 丽水市"/>
+<tag k="addr:city" v="丽水市"/>
+</node>
+</osm>
