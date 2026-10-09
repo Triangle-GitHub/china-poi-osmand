@@ -101,3 +101,11 @@ data/ brand/ a5a/ out/ 运行期目录，不入库（见 .gitignore）
 这套东西最初是为「把连锁品牌门店和 5A 景区灌进手机 OsmAnd」做的，`
 HANDOFF.md` / `BUILD-NOTES.md` 是当时一次真实交接（一台机器准备数据、另一台机器跑 OMC）的原文，
 保留了原始的命令、耗时、MD5 与踩坑，便于复现或接手。已按 `SCRUB-NOTES.md` 做过去标识化处理。
+
+## 许可
+
+- 本仓库自己的代码与文档：**MIT**（见 `LICENSE`）。
+- `samples/china-5a-scenic-areas.csv` 来自上游 `tuansuwu/china-5a-scenic-areas`，仍是 **CC BY-SA 4.0**
+  （`samples/LICENSE.china-5a-scenic-areas` 是原文），请保留署名并以相同许可再分发。
+- 其余第三方数据**不在本仓库内**（由 `scripts/fetch-data.sh` 在你本机拉取，且多数上游无 LICENSE）：
+  见 `THIRD-PARTY-DATA.md`，**请勿再分发**。
