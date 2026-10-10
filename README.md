@@ -96,6 +96,20 @@ data/ brand/ a5a/ out/ 运行期目录，不入库（见 .gitignore）
 - 只有 `name` 而没有 POI 标签（`amenity=`/`shop=`/`tourism=`）的 node 会被 OsmAndMapCreator 忽略。
 - 5A 景区那份数据是 CC BY-SA 4.0，`samples/` 里附了它的 LICENSE 与原始 CSV。
 
+## 本机现状（2026-10-11）
+
+本仓库随「仓库整体搬 NAS」从 `~/work/poi-osmand` 搬到 **`/mnt/nas/data/works/poi-osmand`**，**旧路径不留软链**。
+搬运过了三道闸门（rsync `--checksum` 差异 0、内含 `.git` 的 `fsck`/HEAD/refs 数一致、文件数 153/153），
+对代码与文档**零影响**：脚本全用 `$0` / `__file__` 相对定位（**没有 `/mnt`、`/home` 硬编码**），
+把整份仓库拷到任意路径（实测 `/tmp`）后 `python3 build.py` 照常产出 `out/china-5a.{osm,kml,gpx}`。
+
+| 项 | 现状 |
+|---|---|
+| 路径 | `/mnt/nas/data/works/poi-osmand`，在**外置盘** `/mnt/nas`（= `/dev/sdb1`）上；fstab 带 `nofail` ⇒ 盘没挂上时路径会**静默变空**，而本机已无 `~/work/poi-osmand` 软链兜底 |
+| 运行依赖 | 纯 Python 3 标准库，`python3` 直接可用 |
+| 生成 `.obf` 那一步 | 本机已装 **OpenJDK 17 / 21 / 25**（`/usr/bin/java` = 25）⇒ `HANDOFF.md` 里「WSL 没有 java、只好在 Windows 套一层 wrapper 调 JDK 21」的历史阻碍**已不存在**，`bash utilities.sh generate-poi … --chars-build-poi-nameindex=3` 可直接在本机跑完 |
+| 运行期数据 | `data/ brand/ a5a/ pyjacc/ baidu/ out/` 与 `OsmAndMapCreator-main.zip` **都不在仓库里**（`.gitignore` 排除；搬移闸门 153/153 ⇒ 搬之前也没落地过）⇒ 要真跑一遍先 `bash scripts/fetch-data.sh` + 下 OMC zip，**这不是丢数据** |
+| 远端 | `gitea-local`（本机 gitea，`ssh://gitea-local/admin/poi-osmand.git`）与 **GitHub `origin` 走 SSH**（`git@github.com:Triangle-GitHub/china-poi-osmand.git`）都可用；⚠️ 直连 `github.com:443` **不通**（超时）⇒ 真要走 https 就用 **URL 作用域键** —— `git -c "http.https://github.com/.proxy=http://127.0.0.1:1081" …`（**通用 `-c http.proxy=…` 在已有 URL 作用域键的 clone 里会被静默忽略**，表现为超时/连不上） |
 ## 背景
 
 这套东西最初是为「把连锁品牌门店和 5A 景区灌进手机 OsmAnd」做的，`
