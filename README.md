@@ -96,20 +96,23 @@ data/ brand/ a5a/ out/ 运行期目录，不入库（见 .gitignore）
 - 只有 `name` 而没有 POI 标签（`amenity=`/`shop=`/`tourism=`）的 node 会被 OsmAndMapCreator 忽略。
 - 5A 景区那份数据是 CC BY-SA 4.0，`samples/` 里附了它的 LICENSE 与原始 CSV。
 
-## 本机现状（2026-10-11）
+## 本机现状（2026-11-01，lptp）
 
-本仓库随「仓库整体搬 NAS」从 `~/work/poi-osmand` 搬到 **`/mnt/nas/data/works/poi-osmand`**，**旧路径不留软链**。
-搬运过了三道闸门（rsync `--checksum` 差异 0、内含 `.git` 的 `fsck`/HEAD/refs 数一致、文件数 153/153），
-对代码与文档**零影响**：脚本全用 `$0` / `__file__` 相对定位（**没有 `/mnt`、`/home` 硬编码**），
-把整份仓库拷到任意路径（实测 `/tmp`）后 `python3 build.py` 照常产出 `out/china-5a.{osm,kml,gpx}`。
-
+本仓库已从 **j1900 的 `/mnt/nas/data/works/poi-osmand`** 整仓搬到 **lptp 的 `/home/dora/workspaces/poi-osmand`**。
+搬迁前对 j1900 侧做过核对：工作区**干净、无未纳管文件**（29 个受管文件 / 2.9 MB，其余都在 `.gitignore` 里且当时根本没落地），
+两侧 `HEAD` 同为 `c2b7059` ⇒ 这是一次**纯路径搬迁**，没有运行期数据需要跟着搬。
+脚本仍全部用 `$0` / `__file__` 相对定位（**没有 `/mnt`、`/home` 硬编码**），换路径对代码零影响。
 | 项 | 现状 |
 |---|---|
-| 路径 | `/mnt/nas/data/works/poi-osmand`，在**外置盘** `/mnt/nas`（= `/dev/sdb1`）上；fstab 带 `nofail` ⇒ 盘没挂上时路径会**静默变空**，而本机已无 `~/work/poi-osmand` 软链兜底 |
-| 运行依赖 | 纯 Python 3 标准库，`python3` 直接可用 |
-| 生成 `.obf` 那一步 | 本机已装 **OpenJDK 17 / 21 / 25**（`/usr/bin/java` = 25）⇒ `HANDOFF.md` 里「WSL 没有 java、只好在 Windows 套一层 wrapper 调 JDK 21」的历史阻碍**已不存在**，`bash utilities.sh generate-poi … --chars-build-poi-nameindex=3` 可直接在本机跑完 |
-| 运行期数据 | `data/ brand/ a5a/ pyjacc/ baidu/ out/` 与 `OsmAndMapCreator-main.zip` **都不在仓库里**（`.gitignore` 排除；搬移闸门 153/153 ⇒ 搬之前也没落地过）⇒ 要真跑一遍先 `bash scripts/fetch-data.sh` + 下 OMC zip，**这不是丢数据** |
-| 远端 | `gitea-local`（本机 gitea，`ssh://gitea-local/admin/poi-osmand.git`）与 **GitHub `origin` 走 SSH**（`git@github.com:Triangle-GitHub/china-poi-osmand.git`）都可用；⚠️ 直连 `github.com:443` **不通**（超时）⇒ 真要走 https 就用 **URL 作用域键** —— `git -c "http.https://github.com/.proxy=http://127.0.0.1:1081" …`（**通用 `-c http.proxy=…` 在已有 URL 作用域键的 clone 里会被静默忽略**，表现为超时/连不上） |
+| 路径 | `/home/dora/workspaces/poi-osmand`，在本机 ext4 上，**不再压在外置盘** ⇒ 当年 `/mnt/nas` 带 `nofail`、盘没挂上时路径「静默变空」的风险随之消失 |
+| 提交身份 | 仓库级 `user.name` / `user.email` = **`lptp-master <lptp@localhost>`**（设备本地身份，2026-11-01 由 j1900 时期的 `poi-osmand <poi-osmand@users.noreply.github.com>` 改过来；**历史 3 个提交不重写**，仍是旧身份） |
+| 运行依赖 | ① **Python 3**（实测 `3.14.9` / miniforge），纯标准库；② `curl` + `unzip`（`scripts/fetch-data.sh` 用）；③ 生成 `.obf` 需要 **Java**（实测 **OpenJDK 25**，`/usr/bin/java`）⇒ `HANDOFF.md` 里「WSL 没有 java、只好在 Windows 套一层 wrapper 调 JDK 21」的历史阻碍**已不存在**，`bash utilities.sh generate-poi … --chars-build-poi-nameindex=3` 可直接在本机跑完 |
+| 实测（2026-11-01，本机一轮跑通） | `bash scripts/fetch-data.sh brand a5a` → `brand/` 56 个 json（60 MB）+ `a5a/china-5a-scenic-areas-main/`；`python3 build.py` **5.2 s** 产出 `out/china-5a.{kml,gpx,osm}`（373 条）与 `out/brands-all.{kml,gpx,osm}`（**175,181** 条，跳过缺坐标 30,047），体积 54 / 43 / 64 MB —— 与上方「实测耗时/体积」表一致 |
+| ⚠️ 没取数据时 `build.py` 会崩 | `load_5a()` 直接 `open(csvs[0])`，找不到 `a5a/**/china-5a-scenic-areas.csv` 就 `IndexError: list index out of range`（本机复现）。**先 `bash scripts/fetch-data.sh`**；只想冒烟测试，把 `samples/china-5a-scenic-areas.csv` 拷进 `a5a/<任意目录>/` 即可（373 条照常出图） |
+| 运行期数据 | `data/ brand/ a5a/ pyjacc/ baidu/ out/` 与 `OsmAndMapCreator-main.zip` 都**不在仓库里**（`.gitignore` 排除）⇒ 换机器时它们不会跟过来，**这不是丢数据**，重跑 `scripts/fetch-data.sh` + 下 OMC zip 就有 |
+| 远端 `gitea` | `ssh://gitea.smart-soft.org.cn/admin/poi-osmand.git` —— j1900 托管的那台 gitea 的**域名入口**（SSH 端口 2222 由 `~/.ssh/config` 的 `Host gitea.smart-soft.org.cn` 块给出，密钥 `~/.ssh/id_ed25519_j1900`）。**2026-11-01 把远程名 `gitea-local` 改成 `gitea`**：`gitea-local` 是「`127.0.0.1` = 老宿主 j1900」的别名，在 lptp 上指向自己、已无意义；实测 `git fetch gitea` 与 `git push --dry-run gitea main` 都通 |
+| 远端 `origin`（GitHub） | `git@github.com:Triangle-GitHub/china-poi-osmand.git`。⚠️ **lptp 上还没有 `~/.ssh/id_ed25519_github`** ⇒ 本机 `git fetch/push origin` 会 `Permission denied (publickey)`（待补：拷贝该密钥，或 `ssh-keygen` 新生成一把加到账号）。lptp 直连 `github.com:443` **可通**（实测 200 / 0.75 s），`gh` 已登录 `Triangle-GitHub`（token 带 `repo`）⇒ 也可临时走 https（`~/.gitconfig` 里已有 gh credential helper，`ls-remote` 实测可用） |
+| j1900 时期的口径（仅供考据） | 老宿主直连 `github.com:443` **不通**（超时），才要 **URL 作用域键** `-c "http.https://github.com/.proxy=http://127.0.0.1:1081"`（通用 `-c http.proxy=…` 在已有 URL 作用域键的 clone 里会被静默忽略）。**lptp 不需要这套**，别照抄代理段 |
 ## 背景
 
 这套东西最初是为「把连锁品牌门店和 5A 景区灌进手机 OsmAnd」做的，`
